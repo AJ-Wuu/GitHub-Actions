@@ -9,6 +9,12 @@
 
 _Create a GitHub Action and use it in a workflow._
 
+<details id=X open>
+<summary><h2>Notes</h2></summary>
+
+- GitHub Actions can integrate infrastructure as code within your project's context, facilitate CI/CD and integrate IaC.
+- Two types of actions = Container actions + JavaScript actions.
+
 ![image](https://user-images.githubusercontent.com/84046974/224227639-59333a5e-7aa0-4309-b943-879dcbbf2a9f.png)
 
 <!--
@@ -236,7 +242,7 @@ Your new action will run any time a pull request has been opened.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X open>
+<details id=6>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
