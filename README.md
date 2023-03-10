@@ -9,6 +9,8 @@
 
 _Create a GitHub Action and use it in a workflow._
 
+![image](https://user-images.githubusercontent.com/84046974/224227639-59333a5e-7aa0-4309-b943-879dcbbf2a9f.png)
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
